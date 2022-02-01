@@ -1,0 +1,1 @@
+No Design as escolhas são feitas com um objetivo claro e que seja eficiênte.
