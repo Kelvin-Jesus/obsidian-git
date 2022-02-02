@@ -34,3 +34,6 @@ São boas práticas indicadas por pesquisas e observações.
 	* Testar a solução com o usuário final e identificar melhorias.
 
 Esse processo é chamado de **Desing Thinking** e foi desenvolvido pela escola de design de Stanford.
+
+
+[[UI Design]]
